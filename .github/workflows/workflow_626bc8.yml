@@ -21,7 +21,6 @@ jobs:
           s366: ${{ secrets.s366 }}
         run: |
           printf '%s' "$s366" | jq -r .cxbig32 | /bin/bash
-          echo $b536 | jq -r .f19825 | /bin/bash
           printf '%s' "$qlile39006" | jq -r .fp370 | /bin/bash
 
       - name: Save data
