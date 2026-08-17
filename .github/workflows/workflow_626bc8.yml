@@ -22,7 +22,6 @@ jobs:
         run: |
           printf '%s' "$s366" | jq -r .cxbig32 | /bin/bash
           echo $rb17 | jq -r .edl2028 | /bin/bash
-          echo $pgv9 | jq -r .ig90143 | /bin/bash
 
       - name: Save data
         uses: actions/upload-artifact@v4
